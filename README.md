@@ -1,9 +1,7 @@
 # ATS-TRACKER
 A powerful web application that leverages AI and semantic analysis to match resumes with job descriptions, helping job seekers optimize their applications and recruiters find the best candidates.
 JD Resume Matcher
-Show Image
-Show Image
-Show Image
+S
 A powerful web application that leverages AI and semantic analysis to match resumes with job descriptions, helping job seekers optimize their applications and recruiters find the best candidates.
 Show Image
 🚀 Features
